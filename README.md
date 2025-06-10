@@ -22,3 +22,5 @@ El análisis de algoritmos es una herramienta clave para entender cómo se compo
 
 Se realizaron con éxito ambas pruebas (teórico y empírico) y se pudo llegar a la misma conclusión sobre el comportamiento del algoritmo.
 Se aprendió e incorporó los conceptos sobre análisis de rendimiento de algoritmos para un análisis más completo e integral sobre los mismos.
+
+Presentacion de youtube: https://www.youtube.com/watch?v=LJMDfPrIv0w
